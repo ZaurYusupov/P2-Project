@@ -24,7 +24,7 @@
 
 ## Contributors
 - Thomas Vo
-- Zaur Yusopov
+- Zaur Yusupov
 - Cynnetha Bellinger
 - Diahandra Christian
 - Anthony McJunkins
